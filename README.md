@@ -6,7 +6,7 @@ The random number is changed after the maximum number of attempt is reached
 
 # Usage
 
-Compile the program: Task1_Java
+Compile the program: Task2_Java
 
 Run the program
 
@@ -31,8 +31,5 @@ Number_Of_Trials: The maximum number of times a user attempted to get the correc
 
 Max_Attempts: The maximum number of guesses allowed before the game ends (default: 3).
 
-# Contributing
-
-If you find any issues with the program or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 
